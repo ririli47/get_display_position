@@ -1,0 +1,9 @@
+c:\users\sugu\documents\visual studio 2013\Projects\get_display_position\get_display_position\bin\Debug\get_display_position.exe.config
+c:\users\sugu\documents\visual studio 2013\Projects\get_display_position\get_display_position\bin\Debug\get_display_position.exe
+c:\users\sugu\documents\visual studio 2013\Projects\get_display_position\get_display_position\bin\Debug\get_display_position.pdb
+c:\users\sugu\documents\visual studio 2013\Projects\get_display_position\get_display_position\obj\Debug\get_display_position.csprojResolveAssemblyReference.cache
+c:\users\sugu\documents\visual studio 2013\Projects\get_display_position\get_display_position\obj\Debug\get_display_position.Form1.resources
+c:\users\sugu\documents\visual studio 2013\Projects\get_display_position\get_display_position\obj\Debug\get_display_position.Properties.Resources.resources
+c:\users\sugu\documents\visual studio 2013\Projects\get_display_position\get_display_position\obj\Debug\get_display_position.csproj.GenerateResource.Cache
+c:\users\sugu\documents\visual studio 2013\Projects\get_display_position\get_display_position\obj\Debug\get_display_position.exe
+c:\users\sugu\documents\visual studio 2013\Projects\get_display_position\get_display_position\obj\Debug\get_display_position.pdb
